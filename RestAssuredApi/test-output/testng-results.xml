@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5460" started-at="2020-04-22T07:24:46Z" finished-at="2020-04-22T07:24:51Z">
+  <suite name="Default suite" duration-ms="5821" started-at="2020-04-22T07:45:19Z" finished-at="2020-04-22T07:45:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5460" started-at="2020-04-22T07:24:46Z" finished-at="2020-04-22T07:24:51Z">
+    <test name="Default test" duration-ms="5821" started-at="2020-04-22T07:45:19Z" finished-at="2020-04-22T07:45:24Z">
       <class name="RestAssuredApi.RestAssuredApi.DeleteResignedEmp">
-        <test-method status="PASS" signature="ADDemployeeDetail()[pri:0, instance:RestAssuredApi.RestAssuredApi.DeleteResignedEmp@26be92ad]" name="ADDemployeeDetail" duration-ms="5415" started-at="2020-04-22T12:54:46Z" finished-at="2020-04-22T12:54:51Z">
+        <test-method status="PASS" signature="ADDemployeeDetail()[pri:0, instance:RestAssuredApi.RestAssuredApi.DeleteResignedEmp@26be92ad]" name="ADDemployeeDetail" duration-ms="5763" started-at="2020-04-22T13:15:19Z" finished-at="2020-04-22T13:15:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ADDemployeeDetail -->
